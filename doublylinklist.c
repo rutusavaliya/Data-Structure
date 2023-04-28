@@ -172,7 +172,7 @@ int main()
             printf("Enter Element:");
             scanf("%d", &x);
             insertend(x);
-            break;llllllllll
+            break;
 
         case 4:
             firstdelete();
